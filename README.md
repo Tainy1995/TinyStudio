@@ -7,6 +7,7 @@ Tiny recording program based on dx11 <br />
 程序运行截图
 <br />
 ![image](doc/image_2.jpg)
+<br />
 框架介绍
 <br />
 ![image](doc/image.jpg)
